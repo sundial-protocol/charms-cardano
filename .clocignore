@@ -1,0 +1,4 @@
+offchain/node_modules
+offchain/pnpm-lock.yaml
+aiken.lock
+build
